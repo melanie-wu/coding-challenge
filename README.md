@@ -10,10 +10,10 @@ Welcome! Thanks for your interest in our Data Science Immersive program. In orde
 
 > Note: Please take *no more than 8 hours* to complete both of these challenges.
 
-#### [Part 1: Modeling](https://gist.github.com/jeff-boykin/ec951ccaa1f90470b6ccc2bb1315d28a)
+#### [Part 1: Modeling](https://github.com/melanie-wu/coding-challenge-task-1)
 A challenge to evaluate your ability to perform standard data science tasks in Python.
 
-#### [Part 2: Feedback](https://gist.github.com/jeff-boykin/e5d82e79a3de29813ff745496e6cb5c1)
+#### [Part 2: Feedback](https://github.com/melanie-wu/coding-challenge-task-2)
 A challenge to evaluate your ability to review & debug student code while providing them with relevant feedback.
 
 ## Next Steps
